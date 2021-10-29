@@ -1,6 +1,7 @@
 # Playbook: Incorporating Equity into Decision-Making
 
 ## About this Playbook
+
 The Colorado Digital Service in partnership with the Office of Information Technology recognizes the importance of making and supporting significant shifts in mindset and practice to provide and sustain equitable outcomes for all individuals. Focusing on equity in decision making processes is reflected in [Colorado State Executive Order D2020 175](https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20175%20Equity%2C%20Diversity%2C%20and%20Inclusion%20for%20the%20State%20of%20Colorado.pdf). Government employees and community leaders must take action to create equitable outcomes for individuals of all identities and abilities.
 
 Ensuring equitable outcomes for all individuals requires people at every level of the organization to commit to being a leader for equity. If senior managers, supervisors and front line workers lead initiatives that infuse equity into everyday decision making processes, then individuals throughout Colorado will experience significant positive shifts related to our commitment to the principle that government services are for everyone.
@@ -40,11 +41,13 @@ Building equity into a decision-making process can take many different forms, so
 If you have questions or suggestions, or are interested in having a facilitator run one of these exercises for your team, reach out to the [Colorado Digital Service](http://colorado.gov/digitalservice).
 
 ## Before Running a Play
+
 Before you get started, it is important to connect with each participant to fully understand how they can best participate  and utilize the artifacts that may be developed after each play you run with your team. You should think about the accessibility of the tools and spaces you will be using to facilitate these conversations and activities to make sure that both will allow for all participants, regardless of ability, to be fully engaged. For facilitators, it is key to know your audience so that both the play and the potential artifacts are accessible to them.  
 
 ## Equity Plays
 
 ### 1/ Equity Pause
+
 [Shalini Agrawal](https://www.publicdesignforequity.org/about) is an architect, designer, facilitator, teacher and mother who published a [list of equity questions](https://www.publicdesignforequity.org/blog/2020/5/25/equity-pause-questions) that was used as inspiration for the list below.
 
 An **equity pause** is an intentional moment to gather all decision-makers to pause and reflect on the ways in which process, decisions, products or services, and more, may impact people that are not represented in the room.
@@ -62,22 +65,28 @@ In order to run this play, a team should dedicate a one-hour meeting to answer t
 Even if you don’t have enough time to cover all these questions, even choosing one or two questions to start with is great.
 
 ### 2/ Mapping the People that are Impacted
+
 In order to run this play, a team should dedicate 30 - 45 minutes. Use this exercise at a pivotal moment in the decision-making process in order to create a shared understanding across the team of the people that are impacted.
 
 1. **Individual brainstorm**
 <br>For the first 10 minutes of the meeting, ask every person to individually brainstorm answers to the following question, “Who will be impacted by this project/problem/opportunity?” As participants brainstorm, they should do so in a space where one another’s answers can be shared (eg. digital or physical whiteboard, collaborative document, etc.). Reminder to be aware of your audience and choose a tool that is inclusive of every participant's abilities. Encourage participants to generate as many ideas as they can and not to self-edit as they go - no idea is a bad idea. Prompt them to think about internal stakeholders as well as people outside of government and consider demographics or communities who are structurally marginalized.
+
 2. **Group and Sort**
 <br>In the next 10 minutes, ask participants to collaboratively clean up the responses by grouping similar ideas together. For example, if a participant wrote, “A person who primarily speaks Spanish,” and another wrote, “Spanish-speaker” those two ideas should be grouped together.
+
 3. **Impact Mapping**
 <br>Once the ideas have been organized, ask the participants to collaboratively map the groupings from “least impacted” to “most impacted.”
+
 4. **Barriers Mapping**
 <br>Next, ask the participants to collaboratively map the groupings from “most barriers” to “least barriers.” See below for an example of this mapping.
+
 5. **Goal**
 <br>Finish the meeting by agreeing as a team to a process that enables you to regularly consider and/or engage with all of the people that are impacted. One way to do this is by creating archetypes ([Creating and Using Archetypes](https://docs.google.com/document/d/1ZhF0d0eiUs3kdalKQz51LWeTVtXAXLqyHGmu2uXlVpI/edit)).
 
 ![Three blue concentric circles with a purple line cutting through vertically. The smallest and inner most circle is labeled, "Most Impacted." The largest and outer most circle is labeled, "Least Impacted." The right side of the circles is labeled, "Most barriers.' The left-side of the circles is labeled, "Least barriers."](images/image4.png)
 
 ### 3/ Mapping an Experience
+
 In order to run this play, a team should dedicate at least two hours and commit to doing homework before and after the meeting. Use this exercise to create a holistic understanding of an experience that captures multiple perspectives.This is the most effective when participants include decision-makers and people that are impacted by the project/product/service.
 
 It is important to include a diverse range of perspectives when creating a holistic understanding of that experience. For example, if the goal is to map the experience of a government benefit, you should include
@@ -91,37 +100,45 @@ It is important to include a diverse range of perspectives when creating a holis
 When pursuing community participation, consider if there are any barriers to being able to participate. See the [Community Partnership Principles Guide](https://drive.google.com/file/d/1fAVPagoNvor7mmBeIaPsEa2_9ksAK_On/view?usp=sharing) from the Colorado Equity Alliance for more information and ideas for compensation.
 
 1. **Beforehand**
-Before bringing the participants together, the facilitator(s) should work to create a basic timeline of events that cover all aspects of the experience. The facilitator(s) should rely on subject matter experts to inform the timeline. With the example above, the timeline might look something like this:
+<br>Before bringing the participants together, the facilitator(s) should work to create a basic timeline of events that cover all aspects of the experience. The facilitator(s) should rely on subject matter experts to inform the timeline. With the example above, the timeline might look something like this:
 
 | Triggering Event ➡️ | Discovering the Benefit ➡️ | Applying ➡️ | Waiting ➡️ | Decision |
 |--------------------|---------------------------|------------|-----------|----------|
 
 2. **Introductions**
-At the beginning of the exercise, share the agenda and communicate the goals for the meeting. Indicate that everyone present has different relevant expertise they bring to today’s exercise in the form of their individual lived and day to day experiences. Acknowledging this definition of expertise, then ask everyone to introduce themselves and what expertise they are bringing to the meeting.
+<br>At the beginning of the exercise, share the agenda and communicate the goals for the meeting. Indicate that everyone present has different relevant expertise they bring to today’s exercise in the form of their individual lived and day to day experiences. Acknowledging this definition of expertise, then ask everyone to introduce themselves and what expertise they are bringing to the meeting.
+
 3. **Split into groups and map the experience**
-Split the participants into meaningful groups where people with similar expertise can work together. Ask each group to map their own experience along the timeline (generated in step one). Each step should be represented as a single idea. For example, if using a whiteboard with post-it notes, each step should be represented as a single post-it note. In addition to capturing each step, encourage participants to capture pain-points they have experienced along the way.
+<br>Split the participants into meaningful groups where people with similar expertise can work together. Ask each group to map their own experience along the timeline (generated in step one). Each step should be represented as a single idea. For example, if using a whiteboard with post-it notes, each step should be represented as a single post-it note. In addition to capturing each step, encourage participants to capture pain-points they have experienced along the way.
+
 4. **Share**
-Once each group has completed their timeline, they should present to the larger group. As groups are presenting, encourage the rest of the participants to take note of questions, feedback, and things that surprised or interested them.
+<br>Once each group has completed their timeline, they should present to the larger group. As groups are presenting, encourage the rest of the participants to take note of questions, feedback, and things that surprised or interested them.
+
 5. **Discuss**
-After the presentations, ask participants to share the notes they took with one another. Did the exercise prompt any new ideas for improving the experience?
+<br>After the presentations, ask participants to share the notes they took with one another. Did the exercise prompt any new ideas for improving the experience?
+
 6. **Combine**
-After the meeting, the facilitator(s) should take the time to combine all of the timelines into one artifact and share back with the group. From here, the team could use this mapping to identify new approaches to improving the experience.
+<br>After the meeting, the facilitator(s) should take the time to combine all of the timelines into one artifact and share back with the group. From here, the team could use this mapping to identify new approaches to improving the experience.
 
 
 #### 4/ Prioritization
 In order to run this play, a team should dedicate at least one hour. Use this exercise to create a focus for the team during an implementation phase.
 1. **Before**
 <br>This exercise is appropriate if the team has a clear sense of shared strategy. Before the meeting, the team should have already worked to create a vision and/or roadmap. They should be aware of what is important to achieving that strategy in the near future.
+
 2. **Generate Ideas**
 <br>Remind participants of the larger strategy and ask them to brainstorm ideas that represent work that the team could do in order to achieve that strategy in the near term. Give everyone 10 minutes to individually brainstorm as many ideas as possible.
+
 3. **Group and Sort**
 <br>In the next 10 minutes, ask participants to collaboratively clean up the responses by grouping similar ideas together.
+
 4. **Order by Impact**
 <br>Order the groupings of ideas  by order of impact.
 
 Remind participants that impact should not be measured by the number of people, but rather by the quality of experience for all impacted directly or indirectly by the service. For example, if weighing an idea to “make a website accessible by screen reader” against an idea to “add a new FAQ section to the website,” the first idea is higher impact because it enables access for people with limited or no ability to see.
 
 ## More to Come
+
 This document is a labor of love created by the Colorado Digital Service. The intent is for this to be a living document modified by continuous feedback from its use. We encourage others to utilize these practices and, more importantly, help us improve them.
 
 Interested in following along with the work of the Colorado Digital Service? Submit an [interest form](https://docs.google.com/forms/d/e/1FAIpQLSecwi64CcRK16OMtwNmPYBxoWDUIfk3wl_PYm5-qMLZFr9BFA/viewform?usp=send_form) to stay connected. You can also check out our work at our [Colorado Digital Service](https://oit.colorado.gov/colorado-digital-service) website, [GitHub](https://github.com/coloradodigitalservice), [Linkedin](https://www.linkedin.com/company/colorado-digital-service), or [Twitter](https://twitter.com/ColoradoDS).
